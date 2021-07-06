@@ -1,0 +1,15 @@
+#!/bin/bash
+
+cd QA
+
+mkdir test_1 test_2 test_3
+
+cd test_1
+
+touch file1.txt file2.txt file3.txt file4.json file5.json
+
+mkdir test_4 test_5 test_6
+
+ls -la
+
+mv file1.txt file5.json test_6
