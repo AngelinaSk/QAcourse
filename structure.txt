@@ -1,0 +1,16 @@
+1. Summary -
+2. Ptoject -
+3. Component -
+4. Version -
+5. Severity -
+6. Priority -
+7. Steps of Reproduce -
+8. Actual Result -
+9. Expected Result -
+10. Additional information -
+
+
+~
+
+~
+
